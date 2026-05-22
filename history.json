@@ -1,3 +1,24 @@
 {
-  "reported_pmids": {}
+  "reported_pmids": {
+    "42137920": {
+      "title": "Optical coherence tomography versus angiographic guidance in true unprotected left main bifurcation disease: an OCTOBER substudy.",
+      "reported_at": "2026-05-22T13:59:58.512420"
+    },
+    "41288359": {
+      "title": "Women with chronic coronary artery disease: long-term outcomes after percutaneous coronary intervention vs coronary artery bypass grafting.",
+      "reported_at": "2026-05-22T13:59:58.512420"
+    },
+    "42167298": {
+      "title": "Coronary microvascular dysfunction and cardiovascular outcomes (Multicenter FLOW-CMD Registry): a prospective, multicentre cohort study in South Korea.",
+      "reported_at": "2026-05-22T13:59:58.512420"
+    },
+    "41910504": {
+      "title": "Prehospital Heparin Administration in Patients With STEMI Undergoing Primary PCI: HEPARIN-STEMI Randomized Controlled Trial.",
+      "reported_at": "2026-05-22T13:59:58.512420"
+    },
+    "42158982": {
+      "title": "Clinical Impact of Myocardium at Risk in Transcatheter Aortic Valve Implantation.",
+      "reported_at": "2026-05-22T13:59:58.512420"
+    }
+  }
 }
