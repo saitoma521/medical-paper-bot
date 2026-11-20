@@ -1,45 +1,5 @@
 {
   "reported_pmids": {
-    "42137920": {
-      "title": "Optical coherence tomography versus angiographic guidance in true unprotected left main bifurcation disease: an OCTOBER substudy.",
-      "reported_at": "2026-05-22T13:59:58.512420"
-    },
-    "41288359": {
-      "title": "Women with chronic coronary artery disease: long-term outcomes after percutaneous coronary intervention vs coronary artery bypass grafting.",
-      "reported_at": "2026-05-22T13:59:58.512420"
-    },
-    "42167298": {
-      "title": "Coronary microvascular dysfunction and cardiovascular outcomes (Multicenter FLOW-CMD Registry): a prospective, multicentre cohort study in South Korea.",
-      "reported_at": "2026-05-22T13:59:58.512420"
-    },
-    "41910504": {
-      "title": "Prehospital Heparin Administration in Patients With STEMI Undergoing Primary PCI: HEPARIN-STEMI Randomized Controlled Trial.",
-      "reported_at": "2026-05-22T13:59:58.512420"
-    },
-    "42158982": {
-      "title": "Clinical Impact of Myocardium at Risk in Transcatheter Aortic Valve Implantation.",
-      "reported_at": "2026-05-22T13:59:58.512420"
-    },
-    "42170848": {
-      "title": "Arthroscopic vs Open Bankart Repair for Anterior Shoulder Instability: A Systematic Review and Meta-analysis.",
-      "reported_at": "2026-05-23T07:42:59.443148"
-    },
-    "42159185": {
-      "title": "Lateral robotic-assisted unicompartmental knee arthroplasty shows excellent early to mid-term survivorship, satisfaction and joint-specific outcome: A systematic review and meta-analysis.",
-      "reported_at": "2026-05-23T07:42:59.443148"
-    },
-    "42169443": {
-      "title": "Association Between Autograft Choice and Risk of Contralateral ACL Injury in Patients ≤25 Years of Age: A Systematic Review and Meta-analysis.",
-      "reported_at": "2026-05-23T07:42:59.443148"
-    },
-    "42163474": {
-      "title": "Slope-Reducing Osteotomy Accompanied by Revision Anterior Cruciate Ligament Reconstruction Improves Knee Stability and Function: A Systematic Review and Meta-analysis.",
-      "reported_at": "2026-05-23T07:42:59.443148"
-    },
-    "42145001": {
-      "title": "Adjustable Hinged Knee Bracing Does Not Improve Outcomes After Anterior Cruciate Ligament Reconstruction: A Systematic Review and Meta-analysis of Randomized Controlled Trials.",
-      "reported_at": "2026-05-23T07:42:59.443148"
-    },
     "42178719": {
       "title": "Arthroscopy for Femoroacetabular Impingement in Tonnis Grade 2 Arthritic Hips Results in Similar Clinical and Radiographic Outcomes but Lower Survivorship Than Tonnis Grades 0 and 1: A Systematic Review and Meta-analysis.",
       "reported_at": "2026-05-25T12:03:26.018337"
@@ -1207,6 +1167,10 @@
     "43043781": {
       "title": "What Are the Long-term Outcomes of Periacetabular Osteotomy in a United States Cohort?",
       "reported_at": "2026-11-18T03:29:20.345551"
+    },
+    "43046726": {
+      "title": "Bone-patellar tendon-bone and quadriceps tendon autografts are associated with a higher 1-year risk of thigh muscle injury after anterior cruciate ligament reconstruction in competitive male athletes: A retrospective cohort study.",
+      "reported_at": "2026-11-20T02:54:31.160998"
     }
   }
 }
